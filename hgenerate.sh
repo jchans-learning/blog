@@ -1,1 +1,0 @@
-hexo generate && hexo clean
